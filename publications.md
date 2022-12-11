@@ -6,6 +6,5 @@
 <br>
 <br>
 [The role of the hadron-quark phase transition in core-collapse supernovae](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2554J/abstract)
-<br /> <u>Pia Jakobus</u> ; Mueller, B.; Heger, A.; Motornenko, A.; Steinheimer, J.; Stoecker, H.  
-<br /> Published 2022 in MNRAS
-<br>
+<br> <u>Pia Jakobus</u> ; Mueller, B.; Heger, A.; Motornenko, A.; Steinheimer, J.; Stoecker, H.  
+<br> Published 2022 in MNRAS
