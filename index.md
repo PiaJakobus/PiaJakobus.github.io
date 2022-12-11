@@ -1,5 +1,5 @@
 <figure>
-  <img src="/pictures/portrait.jpg" style="width:20%">
+  <img src="/pictures/portrait.jpg" style="width:5%">
 </figure>
 I am a theoretical astrophysics PhD student in the [School of Physics & Astronomy](https://www.monash.edu/science/schools/physics) at Monash University in Melbourne. My PhD research focuses on core-collapse supernovae and their progenitors with special emphasis on nuclear physics.
 <figure>
