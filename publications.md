@@ -1,4 +1,13 @@
 ## Publication list
+<style>
+div {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+  margin-left: 20px;
+}
+</style>
+<div>
 [The possibility of twin star solutions in a model based on lattice QCD thermodynamics](https://ui.adsabs.harvard.edu/abs/2021EPJC...81...41J/abstract)
 <br> <u>Pia Jakobus</u> ; Motornenko, A.; Gomes, R. O.; Steinheimer, J.; Stoecker, H.
 <br> <i>EPJ C (2021)</i>
@@ -7,3 +16,4 @@
 [The role of the hadron-quark phase transition in core-collapse supernovae](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2554J/abstract)
 <br> <u>Pia Jakobus</u> ; Mueller, B.; Heger, A.; Motornenko, A.; Steinheimer, J.; Stoecker, H. 
 <br> <i>MNRAS (2022)</i>
+</div>
