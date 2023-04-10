@@ -16,4 +16,10 @@ div {
 <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2554J/abstract">The role of the hadron-quark phase transition in core-collapse supernovae</a>
 <br> <u>Jakobus P.</u> ; Mueller, B.; Heger, A.; Motornenko, A.; Steinheimer, J.; Stoecker, H. 
 <br> <i>MNRAS (2022)</i>
+<br>
+<br>
+<a href="https://arxiv.org/abs/2301.06515">Gravitational Waves from a Core g-Mode in Supernovae as Probes of the High-Density Equation of State</a>
+<br> <u>Jakobus P.</u> ; Mueller, B.; Heger, A.; Zha S.; Powell J.; Motornenko, A.; Steinheimer, J.; Stoecker, H. 
+<br> <i>Arxiv (2023)</i>
+
 </div>
