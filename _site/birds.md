@@ -129,7 +129,7 @@ body {
     <img src="/pictures/birds/wattlebird.JPG" style="width:100%">
     <figcaption> Some kind of Wattlebird, not sure which one! </figcaption>
    <img src="/pictures/birds/Dusky_moorhen.jpg" style="width:100%">
-   <figcaption> Dusky moorhen (Gallinula tenebrosa) </figcaption> 
+   <figcaption> Dusky moorhen (Gallinula tenebrosa) inspecting its reflection. </figcaption> 
   </div>
 </div>
 
