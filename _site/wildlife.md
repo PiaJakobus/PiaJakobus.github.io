@@ -1,6 +1,7 @@
-<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/birds"><big>1.Birds of Australia</big></a> 
+<a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>1.Birds of Australia</big></a>
 <br>
-<a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>2.Koalas and friends</big></a>
+<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/wildlife"><big>2.Australia's Wildlife</big></a>
+
 
 
 <html>
@@ -87,8 +88,6 @@ body {
   </div>  
   <div class="column">
     <img src="/pictures/wildlife/koala5.jpg" style="width:100%">
-    <img src="/pictures/wildlife/kan5.jpg" style="width:100%">
-        <img src="/pictures/wildlife/kan4.jpg" style="width:100%">
             <img src="/pictures/wildlife/dingo2.jpg" style="width:100%">
 
   </div>
@@ -96,7 +95,7 @@ body {
     <img src="/pictures/wildlife/kan2.jpg" style="width:100%">
     <img src="/pictures/wildlife/koala4.jpg" style="width:100%">
 <img src="/pictures/wildlife/ausdevil.jpg" style="width:100%">
-    <img src="/pictures/wildlife/koala3.jpg" style="width:100%">
+        <img src="/pictures/wildlife/kan4.jpg" style="width:100%">
 
   </div>
 </div>
