@@ -2,7 +2,6 @@
 <br>
 <a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/wildlife"><big>2.Australia's Wildlife</big></a> 
 
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -82,12 +81,15 @@ body {
     <figcaption>Urban noisy Miner.</figcaption>
     <img src="/pictures/birds/honeyeater.jpg" style="width:100%">
     <figcaption>Native new Holland honeyeater (Phylidonyris novaehollandiae).</figcaption>
+    <img src="/pictures/birds/magpie.jpg" style="width:100%">
+    <figcaption>Australian magpie (Gymnorhina tibicen). Part of the Covidae family (including crows, ravens, rooks, etc). Magpies sometimes ``swoop'' pedestrians during breeding season.</figcaption>
     <img src="/pictures/birds/lorikeet1.jpg" style="width:100%">
     <figcaption>Rainbow Lorikeet (Trichoglossus moluccanus) is part of the parrot family, mostly found in eastern Australia.</figcaption>
   </div>
   <div class="column">
      <img src="/pictures/birds/lorikeet2.jpg" style="width:100%">
      <figcaption>Another inquisitive rainbow Lorikeet</figcaption>
+     <img src="/pictures/birds/lorikeet3.jpg" style="width:100%">
      <img src="/pictures/birds/gull1.jpg" style="width:100%">
      <figcaption>Silver gull (Chroicocephalus novaehollandiae) (can drink both freshwater and saltwater and is among the most intelligent birds). Rumour has it that Seagulls were used by the British in WW I to detect German submarines. </figcaption>
     <img src="/pictures/birds/gull2.jpg" style="width:100%">
@@ -106,17 +108,17 @@ body {
     <img src="/pictures/birds/eagle2.jpg" style="width:100%">
     <figcaption>Eastern osprey. Has fish on its menu.</figcaption>
     <img src="/pictures/birds/gallah.jpg" style="width:100%">
-    <figcaption> Endangered pink cokatoo / Major Mitchell's Cockatooo (Cacatua leadbeateri). The Galah and pink cockatoo have interbred and can produce hybridised offspring./figcaption>
+    <figcaption> Endangered pink cokatoo / Major Mitchell's Cockatooo (Cacatua leadbeateri). The Galah and pink cockatoo have interbred and can produce hybridised offspring.</figcaption>
     <img src="/pictures/birds/frogmouth1.jpg" style="width:100%">
     <figcaption> Tawny Frogmouth (Podargus strigoides). Not part of the owl family. Nocturnal bird with amazing camouflage. </figcaption>
     <img src="/pictures/birds/frogmouth2.JPG" style="width:100%">
     <img src="/pictures/birds/frogmouth3.JPG" style="width:100%">
     <img src="/pictures/birds/not_known.jpg" style="width:100%">
     <figcaption> Not sure which species this is! </figcaption>   
-  </div>
-  <div class="column">
     <img src="/pictures/birds/pigeon1.jpg" style="width:100%">
     <figcaption>White-headed Pigeon</figcaption>
+  </div>
+  <div class="column">
     <img src="/pictures/birds/kookaburra1.jpg" style="width:100%">
     <figcaption>Iconic Australian Kookaburra. Its ''cliche jungle sound'' was used in Hollywood movies! </figcaption>
     <img src="/pictures/birds/kookaburra.jpg" style="width:100%">
@@ -177,5 +179,4 @@ for (var i = 0; i < btns.length; i++) {
 </script>
 
 </body>
-</html>
 
