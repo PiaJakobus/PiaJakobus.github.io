@@ -96,7 +96,7 @@ body {
     <img src="/pictures/birds/gull5.jpg" style="width:100%">
     <figcaption>Silver gull engaging in courtship behaviour.</figcaption>
     <img src="/pictures/birds/pelikan1.jpg" style="width:100%">
-    <figcaption>Australian pelican (Pelecanus conspicillatus) aka the Riverman found around Australia. It hast the largest beak among all birds.</figcaption>
+    <figcaption>Australian pelican (Pelecanus conspicillatus) / Riverman found around Australia. It hast the largest beak among all birds.</figcaption>
     <img src="/pictures/birds/pelikan2.jpg" style="width:100%">
   </div>  
   <div class="column">
@@ -106,7 +106,7 @@ body {
     <img src="/pictures/birds/eagle2.jpg" style="width:100%">
     <figcaption>Eastern osprey. Has fish on its menu.</figcaption>
     <img src="/pictures/birds/gallah.jpg" style="width:100%">
-    <figcaption> Galah (Eolophus roseicapilla) part of the Cockatoos family found throughout Australia. Galahs like to travel in flocks and have life-long bonds with their partners. Can reach up > 70 years!</figcaption>
+    <figcaption> Endangered pink cokatoo / Major Mitchell's Cockatooo (Cacatua leadbeateri). The Galah and pink cockatoo have interbred and can produce hybridised offspring./figcaption>
     <img src="/pictures/birds/frogmouth1.jpg" style="width:100%">
     <figcaption> Tawny Frogmouth (Podargus strigoides). Not part of the owl family. Nocturnal bird with amazing camouflage. </figcaption>
     <img src="/pictures/birds/frogmouth2.JPG" style="width:100%">
