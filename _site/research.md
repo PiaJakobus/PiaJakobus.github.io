@@ -28,5 +28,6 @@ controls="controls" loop="true" autoplay="true" src="/videos/heatmap_z35_cmf.mp4
 </video>
 <p><small><i> z35:CMF </i></small> <br>
 <small>See <a href="https://github.com/PiaJakobus/GW_extraction">Code</a>
+</p>
 </div>
 
