@@ -1,6 +1,6 @@
-<a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>1.Birds of Australia</big></a>
+<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/birds"><big>1.Birds of Australia</big></a>
 <br>
-<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/wildlife"><big>2.Australia's Wildlife</big></a>
+<a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>2.Australia's Wildlife</big></a>
 
 
 
