@@ -1,11 +1,22 @@
+# <u> Overview</u>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+body {
+  background-image: url('pictures/nightsky.jpg');
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
 video {
   height: auto;
  width: 50%;
-}div {
+}
+div {
   margin-top: 5px;
   margin-bottom: 10px;
   margin-left: 20px;
@@ -15,9 +26,10 @@ video {
 </style>
 
 <div class="text-margin"> 
-<p style = "font-size:2vw;">
+<p>
 I am a theoretical astrophysics PhD student in the School of Physics & Astronomy at Monash University in Melbourne. My PhD research focuses on core-collapse supernovae and their progenitors with special emphasis on nuclear physics.
 </p>
+
 <video width="50" playsinline style="border:1px solid black" align="left" controls="controls" loop="true" autoplay="true" src="/videos/explosion.mp4">
 </video>
 <p><small><i>2D simulation of the (fall-back) explosion of a 85 solar mass star (slice along polar axis) [Code: CoCoNuT-FMT]</i></small>

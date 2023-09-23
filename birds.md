@@ -10,6 +10,7 @@
 }
 
 body {
+background-color: #484545;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }

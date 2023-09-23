@@ -1,9 +1,17 @@
-## Publication list
+## <u>Publication list</u>
 <style>
+body {
+  background-image: url('pictures/nightsky.jpg');
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
 div {
   margin-top: 5px;
   margin-bottom: 10px;
-  margin-right: 100px;
   margin-left: 20px;
 }
 </style>

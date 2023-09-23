@@ -1,8 +1,16 @@
-## Gravitational Wave Emission 
+## <u>Gravitational Wave Emission</u> 
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+body {
+  background-image: url('pictures/nightsky.jpg');
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
 video {
   height: auto;
  width: 50%;
@@ -16,7 +24,7 @@ video {
 </style>
 
 <div>
-<p style = "font-size:2vw;"> 
+<p> 
 Radially resolved gravitational wave signal for a 35 M\(_\odot\) progenitor.
 The signal corresponds to a quadrupole \(g\) mode inside the Proto-Compact Star. 
 The upper panel shows the GW amplitude at 5km, 6km, and 8km.
