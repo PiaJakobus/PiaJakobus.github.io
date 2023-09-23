@@ -80,7 +80,7 @@ background-color: #484545;
     <img src="/pictures/wildlife/kan6.jpg" style="width:100%">
     <figcaption>The wallaby is the ''smaller brother'' of the Kangaroo. Young wallabies are called "joeys" (as other young Marsupials). They are also found in New Guinea. </figcaption>
     <img src="/pictures/wildlife/dingo.jpg" style="width:100%">
-    <figcaption> The native dingo (Canis lupus dingo) is from the same lineage as the dog. There is some debate about the taxonomy of dingoes; as of 2020 they are considered part of the <i>Canis familiaris</i> (''dogs''), however according to <a href="https://www.science.org/doi/10.1126/sciadv.abm5944">this</a> study, the dingo genome is structurally distinct to domestic dogs.</figcaption>
+    <figcaption> The native dingo (Canis lupus dingo) is from the same lineage as the dog. There is some debate about the taxonomy of dingoes; as of 2020 they are considered part of the <i>Canis familiaris</i> (''dogs''), however according to <a href="https://www.science.org/doi/10.1126/sciadv.abm5944">this</a> study, the dingo genome is structurally distinct from domestic dogs.</figcaption>
   </div>
   <div class="column">
     <img src="/pictures/wildlife/kan1.jpg" style="width:100%">
@@ -100,7 +100,7 @@ background-color: #484545;
     <img src="/pictures/wildlife/koala4.jpg" style="width:100%">
     <figcaption> Koala numbers are on the decline :( </figcaption> 
 <img src="/pictures/wildlife/ausdevil.jpg" style="width:100%">
-<figcaption> Australian devil. Part of the carnivorous marsupial (see above). Found in Tasmania (and being an iconic symbol there) but recently reintroduced to NSW and mainland Australia. Has one of the strongest ''bite per unit body mass'' among (extant) land mammals. Declared as an endangered species since 2008. </figcaption>
+<figcaption> Australian devil. Part of the carnivorous marsupial (see above). Found in Tasmania (and being an iconic symbol there) but recently reintroduced to NSW and mainland Australia. Has one of the strongest jaws ''per unit body mass'' among (extant) land mammals. Declared as an endangered species since 2008. </figcaption>
         <img src="/pictures/wildlife/kan4.jpg" style="width:100%">
 <figcaption> Tree-kangaroo, usually living in New Guinea and far northeastern Queensland. Apparently, they are slow and clumsy on the ground!</figcaption>
 
