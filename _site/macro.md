@@ -91,9 +91,8 @@ background-color: #484545;
   </div>
   <div class="column">
     <img src="/pictures/insects/white_milbe2.JPG" style="width:100%">
+   <figcaption> Extremly narrow depth of field with fixed aperature of 2.4 and no focus stacking... 
     <img src="/pictures/insects/spider.JPG" style="width:100%">
-  </div>
-</div>
 
 <script>
 // Get the elements with class="column"
@@ -138,5 +137,4 @@ for (var i = 0; i < btns.length; i++) {
 }
 </script>
 
-</body>
 
