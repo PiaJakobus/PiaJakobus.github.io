@@ -32,7 +32,6 @@ max-width: 1200px;
 Radially resolved gravitational wave signal for a 35 M\(_\odot\) progenitor.
 The signal corresponds to a quadrupole \(g\) mode inside the proto-compact star. 
 The upper panel shows the GW amplitude at 5km, 6km, and 8km.
-</div>
 <br>
 <br>
 <div>
@@ -42,7 +41,6 @@ controls="controls" loop="true" autoplay="true" src="/videos/heatmap_z35_cmf.mp4
 </video>
 <p><small><i> z35:CMF </i></small> <br>
 <small>See <a href="https://github.com/PiaJakobus/GW_extraction">Code</a>
-</center>
 
 <div>
 <center>
