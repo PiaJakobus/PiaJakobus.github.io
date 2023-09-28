@@ -88,9 +88,11 @@ background-color: #484545;
     <figcaption>Australian magpie (Gymnorhina tibicen). Part of the Covidae family (including crows, ravens, rooks, etc). Magpies are known to''swoop'' pedestrians during breeding season which leads to creative human head-wear and <a href="https://www.magpiealert.com/">magpie-altert</a> websites. <a href="https://www.qld.gov.au/environment/plants-animals/animals/living-with/magpies/swooping">Here's</a> how to stay safe! Besides protecting their offspring, they often befriend humans and recognise faces if being treated nicely.</figcaption>
     <img src="/pictures/birds/lorikeet1.jpg" style="width:100%">
     <figcaption>Rainbow Lorikeet (Trichoglossus moluccanus) is part of the parrot family, mostly found in eastern Australia.</figcaption>
+    <img src="/pictures/birds/grey_butcherbird.JPG" style="width:100%">
+    <figcaption> Grey Butcherbird (Cracticus torquatus).</figcaption> 
   </div>
   <div class="column">
-     <img src="/pictures/birds/lorikeet2.jpg" style="width:100%">
+     <img src="/pictures/birds/lorikeet4.JPG" style="width:100%">
      <figcaption>Another inquisitive rainbow Lorikeet</figcaption>
      <img src="/pictures/birds/lorikeet3.jpg" style="width:100%">
      <figcaption> Not every photo needs a golden ratio. This lorikeet is beautifully centered.</figcaption>
@@ -107,8 +109,12 @@ background-color: #484545;
     <img src="/pictures/birds/pelikan1.jpg" style="width:100%">
     <figcaption>Australian pelican (Pelecanus conspicillatus) / Riverman found around Australia. It hast the largest beak among all birds.</figcaption>
     <img src="/pictures/birds/pelikan2.jpg" style="width:100%">
+    <img src="/pictures/birds/long_billed_corella.JPG" style="width:100%">
+    <figcaption> Long-billed corella (Cacatua tenuirostris) is of the cockatoo family, native to Australia. Its ability to mimic human language has elevated it to a beloved pet, but it also faces the status of a pest, subject to culling permits in WA and VIC. </figcaption>
   </div>  
   <div class="column">
+     <img src="/pictures/birds/lorikeet5.JPG" style="width:100%">
+     <figcaption> Two lorikeets following the camera click noise.</figcaption>
      <img src="/pictures/birds/pelikan3.jpg" style="width:100%">
     <img src="/pictures/birds/eagle1.jpg" style="width:100%">
     <figcaption>Powerful owl (Ninox strenua). Likes to hunt small mammals. Endemic to eastern and south-eastern Australia</figcaption>
@@ -125,6 +131,8 @@ background-color: #484545;
     <figcaption> Not sure which species this is! </figcaption>   
     <img src="/pictures/birds/pigeon1.jpg" style="width:100%">
     <figcaption>White-headed Pigeon</figcaption>
+    <img src="/pictures/birds/ente.JPG" style="width:100%">
+    <figcaption> Sunbathing pacific black duck (Anas superciliosa). </figcaption>
   </div>
   <div class="column">
     <img src="/pictures/birds/kookaburra1.jpg" style="width:100%">
