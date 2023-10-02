@@ -89,7 +89,7 @@ background-color: #484545;
     <figcaption> Small grasshopper with interesting back ''plumage''. </figcaption>
     <img src="/pictures/insects/white_milbe.JPG" style="width:100%">
     <figcaption> I am not sure why this insect is "dissolving" at its back".</figcaption>
-    <img src="/pictures/insects/bug.JPG" style="width:100%">
+    <img src="/pictures/insects/bug2.JPG" style="width:100%">
     <figcaption> Curious beetle with some pollen on its mouth. </figcaption>
   </div>  
   <div class="column">
@@ -103,6 +103,7 @@ background-color: #484545;
     <img src="/pictures/insects/white_milbe2.JPG" style="width:100%">
    <figcaption> Extremly narrow depth of field with fixed aperature of 2.4 and no focus stacking... 
     <img src="/pictures/insects/spider.JPG" style="width:100%">
+    <img src="/pictures/insects/bug.JPG" style="width:100%">
 
 <script>
 // Get the elements with class="column"

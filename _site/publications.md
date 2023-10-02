@@ -28,6 +28,6 @@ div {
 <br>
 <a href="https://arxiv.org/abs/2301.06515">Gravitational Waves from a Core g-Mode in Supernovae as Probes of the High-Density Equation of State</a>
 <br> <u>Jakobus P.</u> ; Mueller, B.; Heger, A.; Zha S.; Powell J.; Motornenko, A.; Steinheimer, J.; Stoecker, H. 
-<br> <i>Arxiv (2023)</i>
+<br> <i>PRL (2023)</i>
 
 </div>
