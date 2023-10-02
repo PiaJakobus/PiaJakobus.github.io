@@ -17,11 +17,12 @@ video {
   margin-top: 5px;
   margin-bottom: 10px;
   margin-left: 20px;
+  margin-right: 20px;
 }
 .responsive {
   width: 100%;
   height: auto;
-max-width: 1200px;
+max-width: 700px;
 }
 </head>
 </style>
@@ -48,7 +49,7 @@ controls="controls" loop="true" autoplay="true" src="/videos/heatmap_z35_cmf.mp4
 <h2 align="left"> <u>Illustrative view of the proto-compact star</u></h2>
 <div>
 <p style="font-size:16px; ">
-An illustrative diagram of the post-bounce evolution of an 85 M\(_\odot\) progenitor in the postbounce phase of a core-collapse supernova. The diagram comprises four distinct time steps (going clockwise). In each figure, the left panel shows specific entropy per baryon; the right panel displays the velocity dispersion as an approximate for turbulent convective motion (\(\delta v_r\) representing the deviation of radial velocity \(v_r\) from its azimuthal average \(\langle v_r\rangle_\theta\).
+An illustrative diagram of the post-bounce evolution of an 85 M\(_\odot\) progenitor in the postbounce phase of a core-collapse supernova. The diagram comprises four distinct time steps (going clockwise). In each figure, the left panel shows specific entropy per baryon; the right panel displays the velocity dispersion as an approximate for turbulent convective motion \(\delta v_r\) representing the deviation of radial velocity \(v_r\) from its azimuthal average \(\langle v_r\rangle_\theta\).
 
 Pink-hatched regions show zones that are buoyantly stable and susceptible to quadrupolar oscillations, where gravity acts as the restoring force. Yellow/black dotted areas depict overshooting regions. Convective plumes, the standing accretion shock instability (SASI), and mass accretion downflows extend into these regions, albeit at different times and to varying extents. These transport energy into the $g$-mode region, causing it to oscillate and emit gravitational waves at a characteristic mode frequency.
 <br>
