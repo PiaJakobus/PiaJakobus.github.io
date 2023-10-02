@@ -17,7 +17,6 @@ video {
   margin-top: 5px;
   margin-bottom: 10px;
   margin-left: 20px;
-  margin-right: 200px;
 }
 .responsive {
   width: 100%;
