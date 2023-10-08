@@ -77,22 +77,24 @@ background-color: #484545;
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
+    <img src="/pictures/insects/fliege.JPG" style="width:100%">
+    <figcaption> Photo is taken contre-jour, note the textured shadow of the fly. </figcaption>
     <img src="/pictures/insects/beutel.JPG" style="width:100%">
     <figcaption> Carrying a green ''sachet'' on its side, maybe a pollen. </figcaption>
     <img src="/pictures/insects/standrews_spider.JPG" style="width:100%">
    <figcaption> St. Andrews cross-spider </figcaption>
-    <img src="/pictures/insects/nectar.JPG" style="width:100%">
-   <figcaption> Anther with pollen (5x magnification).</figcaption>
   </div>
   <div class="column">
+    <img src="/pictures/insects/nectar.JPG" style="width:100%">
+   <figcaption> Anther with pollen (5x magnification).</figcaption>
     <img src="/pictures/insects/horse.JPG" style="width:100%">
     <figcaption> Small grasshopper with interesting back ''plumage''. </figcaption>
     <img src="/pictures/insects/white_milbe.JPG" style="width:100%">
     <figcaption> I am not sure why this insect is "dissolving" at its back".</figcaption>
-    <img src="/pictures/insects/bug2.JPG" style="width:100%">
-    <figcaption> Curious beetle with some pollen on its mouth. </figcaption>
   </div>  
   <div class="column">
+    <img src="/pictures/insects/bug2.JPG" style="width:100%">
+    <figcaption> Curious beetle with some pollen on its mouth. </figcaption>
     <img src="/pictures/insects/spider_closeup.JPG" style="width:100%">
     <figcaption> Jumping spider </figcaption> 
     <img src="/pictures/insects/grille.JPG" style="width:100%">
@@ -104,6 +106,7 @@ background-color: #484545;
    <figcaption> Extremly narrow depth of field with fixed aperature of 2.4 and no focus stacking... 
     <img src="/pictures/insects/spider.JPG" style="width:100%">
     <img src="/pictures/insects/bug.JPG" style="width:100%">
+    <img src="/pictures/insects/fliege2.JPG" style="width:100%">
 
 <script>
 // Get the elements with class="column"
