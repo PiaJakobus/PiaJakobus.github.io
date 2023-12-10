@@ -48,7 +48,7 @@ controls="controls" loop="true" autoplay="true" src="/videos/heatmap_z35_cmf.mp4
 <h2 align="left"> <u>Illustrative view of the proto-compact star</u></h2>
 <div>
 <p style="font-size:16px; " align="left">
-An illustrative diagram of the post-bounce evolution of an 85 M\(_\odot\) progenitor in the postbounce phase of a core-collapse supernova. The diagram comprises four distinct time steps (going clockwise). 
+An illustrative diagram of the time evolution of an 85 M\(_\odot\) resulting in a core-collapse supernova. The diagram comprises four distinct time steps (going clockwise). 
 <br>
 In each figure, the left panel shows specific entropy per baryon; the right panel displays the velocity dispersion as an approximate for turbulent convective motion \(\delta v_r\).
 <br>
