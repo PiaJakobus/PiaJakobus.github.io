@@ -3,6 +3,10 @@
 <a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/wildlife"><big>2.Australia's Wildlife</big></a> 
 <br>
 <a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>3.Insects</big></a>
+<br>
+<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/wildlife"><big>4.Ocean</big></a> 
+<br>
+<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/blackwhite"><big>5.Monochrome</big></a> 
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -77,48 +81,48 @@ background-color: #484545;
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/pictures/insects/fliege.JPG" style="width:100%">
+    <img src="/pictures/insects/fliege.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Photo is taken contre-jour, note the textured shadow of the fly. </figcaption>
-    <img src="/pictures/insects/beutel.JPG" style="width:100%">
+    <img src="/pictures/insects/beutel.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Carrying a green ''sachet'' on its side, maybe a pollen. </figcaption>
-    <img src="/pictures/insects/standrews_spider.JPG" style="width:100%">
+    <img src="/pictures/insects/standrews_spider.JPG" style="width:100%;border:0.3pc solid white">
    <figcaption> St. Andrews cross-spider </figcaption>
-    <img src="/pictures/insects/fliege2.JPG" style="width:100%">
+    <img src="/pictures/insects/fliege2.JPG" style="width:100%;border:0.3pc solid white">
   </div>
   <div class="column">
-    <img src="/pictures/insects/nectar.JPG" style="width:100%">
+    <img src="/pictures/insects/nectar.JPG" style="width:100%;border:0.3pc solid white">
    <figcaption> Anther with pollen (5x magnification).</figcaption>
-    <img src="/pictures/insects/grasshopper.JPG" style="width:100%">
+    <img src="/pictures/insects/grasshopper.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Grasshopper with interesting patterns </figcaption> 
-    <img src="/pictures/insects/horse.JPG" style="width:100%">
+    <img src="/pictures/insects/horse.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Small grasshopper with interesting back ''plumage''. </figcaption>
-    <img src="/pictures/insects/white_milbe.JPG" style="width:100%">
+    <img src="/pictures/insects/white_milbe.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> I am not sure why this insect is "dissolving" at its back".</figcaption>
-    <img src="/pictures/insects/bug.JPG" style="width:100%">
+    <img src="/pictures/insects/bug.JPG" style="width:100%;border:0.3pc solid white">
   </div>  
   <div class="column">
-    <img src="/pictures/insects/spider_rose.JPG" style="width:100%">
+    <img src="/pictures/insects/spider_rose.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Spider in a rose. </figcaption>
-    <img src="/pictures/insects/bug2.JPG" style="width:100%">
+    <img src="/pictures/insects/bug2.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Curious beetle with some pollen on its mouth. </figcaption>
-    <img src="/pictures/insects/spider_closeup.JPG" style="width:100%">
+    <img src="/pictures/insects/spider_closeup.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Jumping spider </figcaption> 
-    <img src="/pictures/insects/fliege3.JPG" style="width:100%">
-    <img src="/pictures/insects/grille.JPG" style="width:100%">
-    <img src="/pictures/insects/waterdrop.JPG" style="width:100%">
+    <img src="/pictures/insects/fliege3.JPG" style="width:100%;border:0.3pc solid white">
+    <img src="/pictures/insects/grille.JPG" style="width:100%;border:0.3pc solid white">
+    <img src="/pictures/insects/waterdrop.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Transmission of light through morning dew.</figcaption>
   </div>
   <div class="column">
-    <img src="/pictures/insects/grashopper.JPG" style="width:100%">
-    <img src="/pictures/insects/spider_sky.JPG" style="width:100%">
+    <img src="/pictures/insects/grashopper.JPG" style="width:100%;border:0.3pc solid white">
+    <img src="/pictures/insects/spider_sky.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Small spider. </figcaption>
-    <img src="/pictures/insects/zombie_fly.JPG" style="width:100%">
+    <img src="/pictures/insects/zombie_fly.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> Rugged fly with dust on its eyes.</figcaption>
-    <img src="/pictures/insects/waterdrop_fly.JPG" style="width:100%">
+    <img src="/pictures/insects/waterdrop_fly.JPG" style="width:100%;border:0.3pc solid white">
     <figcaption> This fly is enjoying a droplet of water </figcaption>
-    <img src="/pictures/insects/spider_green.JPG" style="width:100%">
+    <img src="/pictures/insects/spider_green.JPG" style="width:100%;border:0.3pc solid white">
    <figcaption> Extremly narrow depth of field with fixed aperature of 2.4 and no focus stacking... 
-    <img src="/pictures/insects/closeup_fliege.JPG" style="width:100%">
+    <img src="/pictures/insects/closeup_fliege.JPG" style="width:100%;border:0.3pc solid white">
 
 <script>
 // Get the elements with class="column"
