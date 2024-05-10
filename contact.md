@@ -9,7 +9,7 @@ body {
 
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-size: 100% 100%;
+  background-size: cover;
 }
 video {
   height: auto;
@@ -24,7 +24,7 @@ video {
 </style>
 <div>
 <p>
-pia.jakobus[at]monash[dot]edu
+pia.jakobus[at]uni-hamburg[dot]de
 </p>
 </div>
 

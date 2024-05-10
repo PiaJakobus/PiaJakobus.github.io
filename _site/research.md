@@ -5,10 +5,10 @@
 body {
   background-image: url('pictures/nightsky.jpg');
   font-family: Arial, Helvetica, sans-serif;
-
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-size: 100% 100%;
+  background-size: cover;
+
 }
 video {
   height: auto;

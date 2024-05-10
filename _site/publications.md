@@ -6,7 +6,7 @@ body {
 
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 div {
@@ -29,5 +29,11 @@ div {
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.191201">Gravitational Waves from a Core g-Mode in Supernovae as Probes of the High-Density Equation of State</a>
 <br> <u>Jakobus P.</u> ; Mueller, B.; Heger, A.; Zha S.; Powell J.; Motornenko, A.; Steinheimer, J.; Stoecker, H. 
 <br> <i>PRL (2023)</i>
+<br>
+<br>
+<a href="https://arxiv.org/abs/2405.01449">Convection and the Core g-mode in Proto-Compact Stars - A detailed analysis</a>
+<br> <u>Jakobus P.</u> ; Mueller, B.; Heger, A. 
+<br> <i>Submitted to MNRAS (2024)</i>
+
 
 </div>
