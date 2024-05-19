@@ -7,9 +7,13 @@
 <a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/ocean"><big>4.Ocean</big></a> 
 <br>
 <a STYLE="margin: 30px 20px 10px 20px" href="#myHeader"><big>5.Monochrome</big></a>
+<br>
+<a STYLE="margin: 30px 20px 10px 20px" href="{{site.baseurl}}/city"><big>6.Cities</big></a> 
+
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
 <style>
 * {
   box-sizing: border-box;
@@ -19,50 +23,6 @@ body {
 background-color: #484545;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.row {
-  display: -ms-flexbox; /* IE 10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE 10 */
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create two equal columns that sits next to each other */
-.column {
-  -ms-flex: 50%; /* IE 10 */
-  flex: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 10px 16px;
-  background-color: #f1f1f1;
-  cursor: pointer;
-  font-size: 18px;
-}
-
-.btn:hover {
-  background-color: #ddd;
-}
-
-.btn.active {
-  background-color: #666;
-  color: white;
 }
 </style>
 </head>
