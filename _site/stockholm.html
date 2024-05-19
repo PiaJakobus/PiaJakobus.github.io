@@ -18,12 +18,13 @@
         <header>
           <h2 style="margin-left:-2px";id="project_title">Dr. Pia Jakobus</h2>
 	  
-	<p style="margin-left:5px;">
+	<p style="margin-left:0px;">
   <a href="/">Home</a> |
   <a href="/research">Research</a> |
   <a href="/publications">Publications</a> |
   <a href="/birds">Photography</a> |
-  <a href="/contact">Contact</a> 
+  <a href="/cats">Cats</a> |
+  <a href="/contact">Contact</a>  
 </p>
 
         </header>
@@ -74,6 +75,7 @@ background-color: #484545;
 <div class="header" id="myHeader">
 
   <p>Click on the buttons to change the grid view.</p>
+<p> All pictures are taken with the iphone 13, not stellar quality but still acceptable for a smartphone </p>
   <button class="btn" onclick="one()">1</button>
   <button class="btn active" onclick="two()">2</button>
   <button class="btn" onclick="four()">4</button>
@@ -85,71 +87,33 @@ background-color: #484545;
     <img src="/pictures/stockholm/IMG_8866.JPG" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8893.png" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8849.png" style="width:100%;border:0.3pc solid white" />
+    <img src="/pictures/stockholm/IMG_8884.JPG" style="width:100%;border:0.3pc solid white" />
 </div>
   <div class="column">
     <img src="/pictures/stockholm/IMG_8966.JPG" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8981.png" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_9011.png" style="width:100%;border:0.3pc solid white" />
+    <img src="/pictures/stockholm/IMG_8896.JPG" style="width:100%;border:0.3pc solid white" />
   </div>
   <div class="column">
     <img src="/pictures/stockholm/IMG_8971.JPG" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8979.png" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8842.png" style="width:100%;border:0.3pc solid white" />
+    <img src="/pictures/stockholm/IMG_8876.JPG" style="width:100%;border:0.3pc solid white" />
+    <figcaption> Swedish colors</figcaption> 
   </div>
  <div class="column">
     <img src="/pictures/stockholm/IMG_8951.JPG" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_8999.png" style="width:100%;border:0.3pc solid white" />
     <img src="/pictures/stockholm/IMG_9008.png" style="width:100%;border:0.3pc solid white" />
 </div> 
-  </div>
+</div>
 
 
 
 
-<script>
-// Get the elements with class="column"
-var elements = document.getElementsByClassName("column");
 
-// Declare a loop variable
-var i;
-
-// Full-width images
-function one() {
-    for (i = 0; i < elements.length; i++) {
-    elements[i].style.msFlex = "100%";  // IE10
-    elements[i].style.flex = "100%";
-  }
-}
-
-// Two images side by side
-function two() {
-  for (i = 0; i < elements.length; i++) {
-    elements[i].style.msFlex = "50%";  // IE10
-    elements[i].style.flex = "50%";
-  }
-}
-
-// Four images side by side
-function four() {
-  for (i = 0; i < elements.length; i++) {
-    elements[i].style.msFlex = "25%";  // IE10
-    elements[i].style.flex = "25%";
-  }
-}
-
-// Add active class to the current button (highlight it)
-var header = document.getElementById("myHeader");
-var btns = header.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
-</script>
-
-
+<script src="script.js"></script>
 </body>
 
 
