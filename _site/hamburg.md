@@ -14,9 +14,20 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<style>
+* {
+  box-sizing: border-box;
+}
 
+body {
+background-color: #484545;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+</style>
+
+</head>
 <a class="button" style="text-decoration:none;position:absolute;left:320px" href="{{site.baseurl}}/melbourne"><big>Melbourne</big></a> 
 <a class="button1" style="text-decoration:none;position:absolute;left:520px" href="{{site.baseurl}}/hamburg"><big>Hamburg</big></a> 
 <a class="button" style="text-decoration:none;position:absolute;left:720px" href="{{site.baseurl}}/stockholm"><big>Stockholm</big></a> 
@@ -63,11 +74,8 @@
 
 
 <script src="script.js"></script>
-</body>
 
 
-</html>
-</body>
 
 
 
